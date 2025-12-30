@@ -1,0 +1,4 @@
+[submodule "hopperkv"]
+	path = hopperkv
+	url = https://github.com/WiscADSL/hopperkv.git
+	branch = main
