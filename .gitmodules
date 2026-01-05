@@ -2,3 +2,7 @@
 	path = hopperkv
 	url = https://github.com/WiscADSL/hopperkv.git
 	branch = main
+[submodule "bunnyfs"]
+	path = bunnyfs
+	url = https://github.com/WiscADSL/bunnyfs.git
+	branch = main
